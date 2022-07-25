@@ -28,6 +28,6 @@ Intro to Data  Journalism Markdown practice resume
  |                    |     * Sales Associate 
                                                             
                                                             
-                                                            
+                nora                                            
                                                                                                                                                                                                                                                                                                                                                                                          
   
